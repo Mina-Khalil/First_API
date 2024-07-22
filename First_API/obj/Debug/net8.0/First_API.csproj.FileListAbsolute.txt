@@ -31,3 +31,4 @@ G:\Work\First_API\First_API\obj\Debug\net8.0\First_API.pdb
 G:\Work\First_API\First_API\obj\Debug\net8.0\First_API.genruntimeconfig.cache
 G:\Work\First_API\First_API\obj\Debug\net8.0\ref\First_API.dll
 G:\Work\First_API\First_API\obj\Debug\net8.0\First_API.sourcelink.json
+G:\Work\First_API\First_API\bin\Debug\net8.0\data.json

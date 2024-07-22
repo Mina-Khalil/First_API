@@ -4,7 +4,7 @@ namespace First_API.Controllers
     [ApiController]
     [Route("api/ [Controller]")]
 
-    public class Caculator : Controller
+    public class CaculatorController : Controller
     {
         [HttpPost]
         // version2

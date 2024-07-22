@@ -5,7 +5,7 @@ namespace First_API.Controllers
     [Route("api/ [Controller]")]
     public class Hello : ControllerBase
     {
-        [HttpGet]
+        [HttpPost]
  
         public string GetWelcome()
         {
